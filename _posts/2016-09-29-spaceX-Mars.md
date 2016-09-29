@@ -12,12 +12,16 @@ defaults:
       share: true
       related: true
 
-## SpaceX have just accounced plans for thier transportaion to Mars
+# SpaceX have just accounced plans for thier transportaion to Mars
 
 
-Why?
+##Why?
 
-Becuase Elon Musk belives humans need to becoem
+Becuase Elon Musk belives humans need to become a mutli planetry speciies as over a long period of time just staying on Earth is a risk. 
+
+##How?
+
+Within the last year SpaceX has reached an amazing milestone in succcessfully devloping reuseable spacecraft. Taking this forward they have designed a spacecraft capable of taknig humans and cargo to Mars to establish a colony. 
 
 Here is a great write up about it on the wonderful Wait But Why - http://waitbutwhy.com/2016/09/spacexs-big-fking-rocket-the-full-story.html
 
