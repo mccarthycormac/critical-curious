@@ -6,7 +6,13 @@ sitemap: true
 permalink: /reads.html
 ---
 
+Books and writer we recommend
+=============================
+
 Here are some excellent popular science books I've read over the years. In no particular order for now.
 
-Cosmos 
-Carl Sagan
+Title: Cosmos 
+Author: Carl Sagan
+
+Title: Guns, Germs & Steel
+Author: Jared Diamond
