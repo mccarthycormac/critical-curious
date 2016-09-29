@@ -3,7 +3,7 @@
 
 ##Why?
 
-Becuase Elon Musk belives humans need to become a mutli planetry speciies as over a long period of time just staying on Earth is a risk. 
+Becuase Elon Musk belives humans need to become a mutli planetry species as over a long period of time just staying on Earth is a risk. 
 
 ##How?
 
