@@ -1,19 +1,5 @@
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
 # SpaceX have just accounced plans for thier transportaion to Mars
-
 
 ##Why?
 
