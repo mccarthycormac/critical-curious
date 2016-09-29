@@ -12,3 +12,5 @@ Within the last year SpaceX has reached an amazing milestone in succcessfully de
 Here is a great write up about it on the wonderful Wait But Why - http://waitbutwhy.com/2016/09/spacexs-big-fking-rocket-the-full-story.html
 
 And there is also more on the SpaceX website.
+
+Random Thought: Did Elon build Tesla cars to be so fast so more humans will be more comfortable with the g forces experienced in space travle!?
