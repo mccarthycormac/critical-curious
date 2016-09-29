@@ -4,7 +4,7 @@ main:
     url: /
     
   - title: "Recommended Reads"
-    url: /reads
+    url: /reads.html
 
   - title: "About"
     url: /
