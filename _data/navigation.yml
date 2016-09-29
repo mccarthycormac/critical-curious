@@ -2,6 +2,9 @@
 main:
   - title: "Latest"
     url: /
+    
+  - title: "Recommended Reads"
+    url: /
 
   - title: "About"
     url: /
