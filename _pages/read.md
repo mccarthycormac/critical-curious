@@ -1,4 +1,3 @@
-
 ---
 title: "Recommended Reads"
 layout: single
