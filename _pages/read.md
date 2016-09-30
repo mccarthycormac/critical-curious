@@ -27,6 +27,6 @@ Here are some excellent popular science books I've read over the years. In no pa
 
   **Author:** Lawerence M. Krauss
   
- - **Title:** The Lauguage Instinct 
+- **Title:** The Lauguage Instinct 
 
   **Author:** Steven Pinker
