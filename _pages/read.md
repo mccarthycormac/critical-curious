@@ -11,22 +11,12 @@ Books and writers we recommend
 
 Here are some excellent popular science books I've read over the years. In no particular order for now.
 
-- **Title:** Cosmos 
+- Cosmos by Carl Sagan
 
-  **Author:** Carl Sagan
+- Guns, Germs & Steel by Jared Diamond
 
-- **Title:**  Guns, Germs & Steel 
+- The Selfish Gene by Richard Dawkins
+
+- A Universe from Nothing by Lawerence M. Krauss
   
-  **Author:** Jared Diamond
-
-- **Title:** The Selfish Gene  
-  
-  **Author:** Richard Dawkins
-
-- **Title:** A Universe from Nothing 
-
-  **Author:** Lawerence M. Krauss
-  
-- **Title:** The Lauguage Instinct 
-
-  **Author:** Steven Pinker
+- The Lauguage Instinct by Steven Pinker
