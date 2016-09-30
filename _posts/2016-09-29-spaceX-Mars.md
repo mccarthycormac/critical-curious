@@ -1,11 +1,14 @@
 
-# SpaceX have just announced plans for transportaion to Mars
+SpaceX have just announced plans for transportaion to Mars
+============================================
 
-##Why?
+Why?
+-----
 
 Becuase Elon Musk belives humans need to become a mutli planetry species as over a long period of time staying on Earth is a risk. 
 
-##How?
+How?
+-----
 
 Within the last year SpaceX has reached an amazing milestone in succcessfully devloping reuseable spacecraft. Taking this forward they have designed one capable of taking humans and cargo to Mars to establish a colony. 
 
